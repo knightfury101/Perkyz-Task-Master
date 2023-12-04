@@ -40,9 +40,9 @@ const MarketingPage = () => {
           textFont.className
         )}
       >
-        Sync Up, Strategize, and Summit Success with Perkyz. Whether You're
-        Scaling Skyscrapers or Grinding at Home, Perkyz Tailors to Your Team's
-        Distinct Workflow - Conquer it All with Perkyz!
+        Sync Up, Strategize, and Summit Success with Perkyz. Whether You&apos;re
+        Scaling Skyscrapers or Grinding at Home, Perkyz Tailors to Your
+        Team&apos;s Distinct Workflow - Conquer it All with Perkyz!
       </div>
       <Button className="mt-6" size="lg" asChild>
         <Link href="/sign-up">Get Perkyz For Free...</Link>
